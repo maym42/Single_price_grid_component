@@ -1,4 +1,6 @@
 # Frontend Mentor - Single price grid component
+[Preview site](https://maym42.github.io/Single_price_grid_component/)
+
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
