@@ -135,7 +135,7 @@ p {
 
 /************Desktop*************/
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 700px) and (min-height:700px) {
     .warper {
         padding: 0;
         height: 100vh;
